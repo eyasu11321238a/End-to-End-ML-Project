@@ -165,22 +165,5 @@ The UI collects the six input features and returns the predicted math score.
 
 ---
 
-## 10. Contributing
-
-Pull‑requests are welcome! Please open an issue first to discuss substantial changes.
-
-```bash
-# lint & test before pushing
-ruff .
-pytest
-```
-
----
-
-## 11. License
-
-Distributed under the **MIT License** – see `LICENSE` file for details.
-
----
 
 
