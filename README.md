@@ -119,7 +119,7 @@ Modify hyper‑parameters in `src/components/model_trainer.py` if you wish to ex
 
 ## 7. Web UI
 
-![UI Screenshot](docs/ui.png)
+![UI Screenshot](ui.png)
 
 The UI collects the six input features and returns the predicted math score.
 
